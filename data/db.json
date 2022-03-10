@@ -1,0 +1,18 @@
+{
+    "blogs": [
+        {
+            "title":"The first Blog" ,
+            "body": "Enables the report to be triggered on fatal errors (internal errors within the Node.js runtime such as out of memory) that lead to termination of the application. Useful to inspect various diagnostic data elements such as heap, stack, event loop state, resource consumption etc. to reason about the fatal error.",
+            "author": "Dunsin",
+            "id": 1
+        },
+
+         {
+            "title": "The second blog",
+            "body": "Initializes an OpenSSL secure heap of n bytes. When initialized, the secure heap is used for selected types of allocations within OpenSSL during key generation and other operations. This is useful, for instance, to prevent sensitive information from leaking due to pointer overruns or underruns.",
+            "author":"Eyitayo" ,
+            "id":2
+        }
+    ]
+    
+}
